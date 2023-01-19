@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @meesha94
+- 👋 Hi, I’m Meesha!
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning react and java
-- 💞️ I’m looking to collaborate on any projects 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning to build on my java knowledge
+- 💞️ I’m looking to collaborate on any projects using javascript, react or java and springboot
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/meesha-anwar/
 
 <!---
 meesha94/meesha94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
